@@ -13,10 +13,9 @@ frames_*/
 *.mkv
 recognized_containers*.txt
 
-# Models (weights)
-models/*.pt
-models/*.onnx
 
 # IDE / OS
 .vscode/
 .DS_Store
+
+
