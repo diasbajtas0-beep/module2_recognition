@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.git
+.gitignore
+data
+*.mp4
+*.avi
+*.mov
+*.mkv
