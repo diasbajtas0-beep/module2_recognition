@@ -7,7 +7,7 @@
 https://drive.google.com/file/d/1bNnlDTv_HpOAozhx-Ti7VWYF5p-w-Ksb/view?usp=sharing
 
 ## Output
-Пример результатов (видео + txt/json):
+Пример результатов:
 https://drive.google.com/drive/folders/1GMNUI0KtN4irSZwqg8wiLG6xY3EHRrWJ?usp=sharing
 
 ---
@@ -15,9 +15,9 @@ https://drive.google.com/drive/folders/1GMNUI0KtN4irSZwqg8wiLG6xY3EHRrWJ?usp=sha
 ## Структура проекта
 - `main.py` — основной запуск пайплайна
 - `box_recognition2.py` — распознавание символов в ROI
-- `tools.py` — валидация/утилиты
+- `tools.py` — ISO 
 - `models/` — веса моделей (detection/recognition)
-- `data/` — вход/выход (не коммитится)
+
 
 ---
 
